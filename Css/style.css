@@ -4,17 +4,19 @@
     font-size: 40px;
 }
 
-.box-one div {
+.box-one {
     background-color:red;
     padding: 20px;
     border: 20px solid purple;
     margin: 20px;
-
-
+    border-width: 20px;
 } 
 
-.box-two div {
+.box-two {
     background-color: blue;
     border: 0 solid yellow;
+    padding: 20px;
+    border-width: 20px;
+    margin: 20px;
 } 
   
